@@ -1,0 +1,18 @@
+{
+  "label2id": {
+    "AIRBAGS": 0,
+    "BRAKES": 1,
+    "ELECTRICAL": 2,
+    "ENGINE": 3,
+    "POWERTRAIN": 4,
+    "STEERING": 5
+  },
+  "id2label": {
+    "0": "AIRBAGS",
+    "1": "BRAKES",
+    "2": "ELECTRICAL",
+    "3": "ENGINE",
+    "4": "POWERTRAIN",
+    "5": "STEERING"
+  }
+}
